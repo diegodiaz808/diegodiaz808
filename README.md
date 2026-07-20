@@ -21,6 +21,10 @@ Product builder — I take ideas from zero to shipped: web apps, games, trading 
 | [stopthetimer](https://github.com/diegodiaz808/stopthetimer) | Reflex mini-game for Huawei smartwatches (HarmonyOS JS UI) | Stop the timer at exactly 10.000s — shipped for the HarmonyOS wearable ecosystem | Gaming |
 | [polymarket-bot](https://github.com/diegodiaz808/polymarket-bot) | Minimal Polymarket CLOB client on Polygon | Research experiment: order-book reads and limit orders on a prediction market | Trading systems |
 
+## How I work
+
+Every project here was designed, directed and shipped by me, working hand-in-hand with **Claude Code** and **Codex** as engineering copilots — from first idea to deployed product.
+
 ## Contact
 
 📫 diegodiaz080800@gmail.com
