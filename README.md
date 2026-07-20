@@ -22,7 +22,7 @@ Product builder from Argentina. I design, build and ship my own products end-to-
 | Repo | What it is |
 |---|---|
 | [faro](https://github.com/diegodiaz808/faro) | Thesis-based stock screener: concurrent market data, custom scoring per watchlist, Spanish localization |
-| [worldcup-betting](https://github.com/diegodiaz808/worldcup-betting) | AI-powered betting analytics for World Cup 2026 (Next.js 14 + Prisma + Claude) |
+| [worldcup-betting](https://github.com/diegodiaz808/worldcup-betting) | "CojeCasinos" — AI-powered betting analytics for World Cup 2026 (Next.js 14 + Prisma). **[▶ Live demo](https://diegodiaz808.github.io/worldcup-betting/)** |
 | [stopthetimer](https://github.com/diegodiaz808/stopthetimer) | Reflex mini-game for Huawei smartwatches (HarmonyOS) |
 | [fulbo-video-mixer](https://github.com/diegodiaz808/fulbo-video-mixer) | FFmpeg factory for 9:16 social videos: reaction + gameplay + branded divider |
 | [fulbo-scripts](https://github.com/diegodiaz808/fulbo-scripts) | Script generator for vertical marketing videos with performance tracking |
