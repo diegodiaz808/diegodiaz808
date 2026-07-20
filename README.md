@@ -4,6 +4,10 @@ Product builder - I take ideas from zero to shipped: web apps, games, trading sy
 
 **Live demos:** [▶ Fulbo - playable football game](https://diegodiaz808.github.io/fulbo-beta1/) · [▶ CojeCasinos - World Cup analytics](https://diegodiaz808.github.io/worldcup-betting/)
 
+## How I work
+
+Every product here is designed and thought out by me. For years I could design my projects but had to hire developers to build them; today I build them myself, end to end, using **Claude Code** and **Codex** as build assistants. The ideas, the product decisions and the direction are mine: the tools just help me construct them.
+
 ## Projects
 
 | Project | What it is | What it's for | Category |
@@ -21,10 +25,6 @@ Product builder - I take ideas from zero to shipped: web apps, games, trading sy
 | [stopthetimer](https://github.com/diegodiaz808/stopthetimer) | Reflex mini-game for Huawei smartwatches (HarmonyOS JS UI) | Stop the timer at exactly 10.000s - shipped for the HarmonyOS wearable ecosystem | Gaming |
 | [polymarket-bot](https://github.com/diegodiaz808/polymarket-bot) | Minimal Polymarket CLOB client on Polygon | Research experiment: order-book reads and limit orders on a prediction market | Trading systems |
 
-## How I work
-
-Every product here is designed and thought out by me. For years I could design my projects but had to hire developers to build them; today I build them myself, end to end, using **Claude Code** and **Codex** as build assistants. The ideas, the product decisions and the direction are mine: the tools just help me construct them.
-
 ## Contact
 
-📫 diegodiaz080800@gmail.com · 𝕏 [@DiegoDiaz808](https://x.com/DiegoDiaz808) · ✈️ [Telegram](https://t.me/diego_diaz08)
+𝕏 [@DiegoDiaz808](https://x.com/DiegoDiaz808) · 💬 [Telegram](https://t.me/diego_diaz08)
