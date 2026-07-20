@@ -23,7 +23,7 @@ Product builder - I take ideas from zero to shipped: web apps, games, trading sy
 
 ## How I work
 
-Every project here was designed, directed and shipped by me, working hand-in-hand with **Claude Code** and **Codex** as engineering copilots - from first idea to deployed product.
+Every product here is designed and thought out by me. For years I could design my projects but had to hire developers to build them; today I build them myself, end to end, using **Claude Code** and **Codex** as build assistants. The ideas, the product decisions and the direction are mine: the tools just help me construct them.
 
 ## Contact
 
