@@ -11,7 +11,8 @@ Product builder from Argentina. I design, build and ship my own products end-to-
 
 | Repo | What it is |
 |---|---|
-| [jarvis](https://github.com/diegodiaz808/jarvis) | Solana memecoin sniper: real-time pump.fun scanner, timed evaluation checkpoints, anti-rug gate, Jupiter execution, live dashboard |
+| [jarvis](https://github.com/diegodiaz808/jarvis) | AI trading assistant on Discord: 3 strategy engines with confluence scoring, paper trading, local LLM analysis (Ollama), risk manager |
+| [pumpfun-sniper](https://github.com/diegodiaz808/pumpfun-sniper) | Solana memecoin sniper: real-time pump.fun scanner, timed evaluation checkpoints, anti-rug gate, Jupiter execution, live dashboard |
 | [discord-game-bots](https://github.com/diegodiaz808/discord-game-bots) | Six Discord mini-game bots built for crypto communities (Swap.io, fulbo.fun) |
 | [cv-shooter](https://github.com/diegodiaz808/cv-shooter) | Job-hunting bot: scrapes crypto boards + LinkedIn, ranks offers against a profile, opens the best in Chrome |
 | [polymarket-bot](https://github.com/diegodiaz808/polymarket-bot) | Minimal Polymarket CLOB experiment on Polygon |
