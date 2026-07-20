@@ -5,7 +5,7 @@ Product builder from Argentina. I design, build and ship my own products end-to-
 ## 🎮 Ventures
 
 - **[DeltaBet](https://deltabet.xyz)** — B2B SaaS adding social tournament mechanics on top of online casinos. [Engine + API + playable demos →](https://github.com/diegodiaz808/deltabet-api)
-- **[Fulbo](https://fulbo.fun)** — football gaming community: Unity game beta, web app, and its own content pipeline (below).
+- **[Fulbo](https://fulbo.fun)** — football gaming community: Unity game, web app, and its own content pipeline (below). **[▶ Play Beta 1.0 in your browser](https://diegodiaz808.github.io/fulbo-beta1/)**
 
 ## 🤖 Bots & automation
 
